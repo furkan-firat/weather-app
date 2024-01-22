@@ -8,7 +8,7 @@ const Error = ({ msg }) => {
       <p>Please try again later or contact support if the issue persists.</p>
       <p>{msg}</p>
       <img
-        src="/src/assets/error.png" // Replace with your own error image URL
+        src="/assets/error.png" // Replace with your own error image URL
         alt="Error Illustration"
         className="error-image"
       />
